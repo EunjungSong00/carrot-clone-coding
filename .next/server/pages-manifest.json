@@ -1,25 +1,5 @@
 {
-  "/api/client-test": "pages/api/client-test.js",
-  "/chats/[id]": "pages/chats/[id].html",
   "/_app": "pages/_app.js",
-  "/chats": "pages/chats.html",
-  "/community": "pages/community.html",
-  "/enter": "pages/enter.html",
-  "/form": "pages/form.html",
-  "/community/write": "pages/community/write.html",
-  "/items/[id]": "pages/items/[id].html",
-  "/": "pages/index.html",
-  "/items/upload": "pages/items/upload.html",
-  "/live/[id]": "pages/live/[id].html",
-  "/community/[id]": "pages/community/[id].html",
   "/_error": "pages/_error.js",
-  "/live/create": "pages/live/create.html",
-  "/profile/bought": "pages/profile/bought.html",
-  "/profile/edit": "pages/profile/edit.html",
-  "/live": "pages/live.html",
-  "/profile/loved": "pages/profile/loved.html",
-  "/profile": "pages/profile.html",
-  "/profile/sold": "pages/profile/sold.html",
-  "/_document": "pages/_document.js",
-  "/404": "pages/404.html"
+  "/_document": "pages/_document.js"
 }
